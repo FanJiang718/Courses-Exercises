@@ -1,0 +1,7 @@
+-- Conversions : 
+133.99 Euro -> 142.54 Dollar -> 133.98 Euro false
+1.49 Livre -> 87.90 Rouble -> 1.48 Livre false
+22.89 Yuan -> 3.20 Euro -> 22.85 Yuan false
+16.32 Euro -> 13.83 Livre -> 16.31 Euro false
+0.39 Dollar -> 0.39 Dollar -> 0.39 Dollar true
+1.49 Livre -> 12.55 Yuan -> 1.48 Livre false

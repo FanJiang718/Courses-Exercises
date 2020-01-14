@@ -1,0 +1,9 @@
+-- attend null : 
+null
+-- Conversions : 
+12.45 Euro -> 13.24 Dollar
+23.22 Yuan -> 3.25 Euro
+2.49 Livre -> 20.98 Yuan
+16.32 Euro -> 13.83 Livre
+13.87 Livre -> 818.32 Rouble
+0.59 Dollar -> 0.59 Dollar
